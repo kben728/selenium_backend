@@ -1,4 +1,4 @@
-# WebSocket Server Readme
+# Selenium Websockets Backend
 
 This repository contains a WebSocket server implemented in Node.js using Express and the ws library. This server allows real-time communication with clients and provides functionality to update and broadcast a current URL state. Below are instructions on how to use, the available endpoints, and WebSocket events.
 
